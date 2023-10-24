@@ -1,0 +1,9 @@
+{
+	"name": "df-mytemplate",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a860e282-f44b-47d2-b61a-6796d0099267",
+		"tenantId": "4a3b52dd-9923-4943-bcf0-89fa121992b7"
+	}
+}
